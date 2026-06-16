@@ -1,63 +1,152 @@
-# 👋 Hola, soy Giovanny Hernandez Arbelaez
+# 👋 Hola, soy Giovanny Hernández Arbelaez
 
-**Software Development Coordinator | Java Backend Developer | Spring Boot | Microservices**
+### Technical Lead | Java Backend Engineer | Spring Boot | Microservices
 
-Ingeniero de Sistemas apasionado por el desarrollo backend, la arquitectura de software y la construcción de soluciones empresariales escalables.
+![Java](https://img.shields.io/badge/Java-25-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-green)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Messaging-orange)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
 
-Cuento con experiencia liderando equipos de desarrollo y participando en el diseño e implementación de plataformas basadas en Java, Spring Boot, microservicios, mensajería e integración de sistemas para entornos empresariales de alta exigencia.
+Ingeniero de Sistemas especializado en desarrollo backend, arquitectura de software y construcción de soluciones empresariales escalables.
 
----
-
-## 🚀 Sobre mí
-
-- Desarrollo backend con Java, Spring Boot y APIs REST.
-- Experiencia en microservicios, mensajería y comunicación entre sistemas.
-- Conocimiento en RabbitMQ, WebFlux, Docker, Kubernetes y pruebas unitarias.
-- Interés en arquitectura de software, buenas prácticas y mejora continua.
-- Enfoque profesional orientado a soluciones empresariales y trabajo en equipo.
+Tengo experiencia liderando equipos de desarrollo y participando en el diseño, implementación y evolución de plataformas de misión crítica utilizando Java, Spring Boot, arquitecturas basadas en microservicios, mensajería e integración de sistemas.
 
 ---
 
-## 🛠️ Tecnologías
+## 🚀 Acerca de mí
 
-**Backend:** Java, Spring Boot, Spring WebFlux, JPA, Hibernate  
-**Bases de datos:** Oracle, PostgreSQL, MySQL, H2  
-**Mensajería:** RabbitMQ  
-**DevOps:** Docker, Kubernetes, Jenkins  
-**Herramientas:** Git, GitHub, Postman, Maven  
-**Testing:** JUnit, Mockito  
+Actualmente enfoco mi trabajo en la construcción de soluciones robustas, mantenibles y escalables para entornos empresariales.
+
+### Áreas de experiencia
+
+- Arquitectura de Software
+- Desarrollo Backend con Java
+- Microservicios
+- Integración de Sistemas
+- APIs REST
+- Mensajería Asíncrona
+- Observabilidad y Monitoreo
+- Liderazgo Técnico
+- Buenas Prácticas de Desarrollo
 
 ---
 
-## 📌 Repositorios destacados
+## 🛠️ Stack Tecnológico
+
+### Backend
+
+- Java 8 / 11 / 17 / 21
+- Spring Boot
+- Spring Cloud
+- Spring WebFlux
+- Spring Batch
+- JPA / Hibernate
+- JdbcTemplate
+
+### Bases de Datos
+
+- Oracle
+- PostgreSQL
+- MySQL
+- H2
+
+### Mensajería
+
+- RabbitMQ
+- Kafka
+
+### DevOps & Cloud
+
+- Docker
+- Kubernetes
+- Jenkins
+- GitHub Actions
+
+### Observabilidad
+
+- OpenTelemetry
+- Zipkin
+- Prometheus
+- Loki
+
+---
+
+## 📌 Proyectos Destacados
 
 ### 🐇 RabbitMQ
-Proyecto orientado al manejo de mensajería asíncrona con Java y RabbitMQ.
 
-### ⚡ cursoWebFlux
-Prácticas con programación reactiva usando Spring WebFlux.
+Implementaciones enfocadas en comunicación asíncrona, procesamiento desacoplado y patrones de mensajería empresarial.
 
-### 🧪 junitTest
-Ejercicios y ejemplos de pruebas unitarias en Java.
+### ⚡ Spring WebFlux
 
-### 🐳 docker-kubernates-spring
-Prácticas relacionadas con Docker, Kubernetes y aplicaciones Spring.
+Prácticas y ejemplos orientados a programación reactiva y aplicaciones de alta concurrencia.
 
-### 🏥 veterinaria-clinical-history
-API backend para gestión de historias clínicas veterinarias.
+### 🧪 JUnit Testing
+
+Colección de pruebas unitarias y ejemplos enfocados en calidad de software y automatización de validaciones.
+
+### 🐳 Docker & Kubernetes
+
+Laboratorios y prácticas relacionadas con despliegue, contenerización y orquestación de aplicaciones empresariales.
+
+### 🏥 REST APIs
+
+Implementaciones backend utilizando Spring Boot, validaciones, documentación y buenas prácticas de diseño.
 
 ---
 
-## 🎯 Lo que busco reflejar en mi GitHub
+## 🎯 Filosofía Profesional
 
-Este espacio reúne mi evolución como desarrollador backend, mis prácticas técnicas y proyectos de aprendizaje aplicados a escenarios reales.
+Creo que el software debe ser:
 
-Mi objetivo es mantener un perfil profesional, claro y útil tanto para reclutadores como para compañeros de trabajo que quieran conocer mi forma de estructurar soluciones, documentar proyectos y aplicar buenas prácticas.
+- Escalable
+- Mantenible
+- Observable
+- Seguro
+- Fácil de evolucionar
+
+Me interesa especialmente la arquitectura de software, los sistemas distribuidos, la integración empresarial y el uso de inteligencia artificial para potenciar los procesos de desarrollo.
+
+---
+
+## 🌱 Actualmente Explorando
+
+- Arquitecturas Cloud Native
+- Event Driven Architecture
+- Inteligencia Artificial aplicada al desarrollo
+- Observabilidad avanzada
+- Automatización y DevOps
+
+---
+
+## 🤝 Colaboración
+
+Estoy abierto a colaborar en proyectos relacionados con:
+
+- Java
+- Spring Boot
+- Microservicios
+- Integración Empresarial
+- Arquitectura de Software
+- Buenas Prácticas de Desarrollo
 
 ---
 
 ## 📫 Contacto
 
-- GitHub: [github.com/giovanni104](https://github.com/giovanni104)
-- LinkedIn: www.linkedin.com/in/giovanni-hernandez-software
-- Email: giovanni104@hotmail.com
+📍 Colombia
+
+💼 LinkedIn  
+www.linkedin.com/in/giovanni-hernandez-software
+
+📧 Email  
+giovanni104@hotmail.com
+
+🐙 GitHub  
+https://github.com/giovanni104
+
+---
+
+> "Construyendo soluciones empresariales escalables, mantenibles y preparadas para evolucionar."
