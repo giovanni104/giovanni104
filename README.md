@@ -2,9 +2,9 @@
 
 **Software Development Coordinator | Java Backend Developer | Spring Boot | Microservices**
 
-Soy Ingeniero de Sistemas con experiencia en desarrollo backend, integración de sistemas empresariales y construcción de soluciones basadas en Java, Spring Boot, APIs REST, mensajería y bases de datos.
+Ingeniero de Sistemas apasionado por el desarrollo backend, la arquitectura de software y la construcción de soluciones empresariales escalables.
 
-Me enfoco en crear soluciones limpias, mantenibles y escalables, aplicando buenas prácticas de arquitectura, documentación técnica y trabajo colaborativo.
+Cuento con experiencia liderando equipos de desarrollo y participando en el diseño e implementación de plataformas basadas en Java, Spring Boot, microservicios, mensajería e integración de sistemas para entornos empresariales de alta exigencia.
 
 ---
 
