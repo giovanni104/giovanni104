@@ -37,7 +37,7 @@ Actualmente enfoco mi trabajo en la construcción de soluciones robustas, manten
 
 ### Backend
 
-- Java 8 / 11 / 17 / 21
+- Java 8 / 11 / 17 / 21 / 25
 - Spring Boot
 - Spring Cloud
 - Spring WebFlux
