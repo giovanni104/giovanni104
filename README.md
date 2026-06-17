@@ -75,25 +75,126 @@ Actualmente enfoco mi trabajo en la construcción de soluciones robustas, manten
 
 ## 📌 Proyectos Destacados
 
-### 🐇 RabbitMQ
+### 🔐 Secure OTP Service ⭐ Proyecto Principal
 
-Implementaciones enfocadas en comunicación asíncrona, procesamiento desacoplado y patrones de mensajería empresarial.
+Microservicio empresarial para generación y validación segura de códigos OTP (One-Time Password), diseñado para procesos de autenticación y autorización de operaciones sensibles.
 
-### ⚡ Spring WebFlux
+**Características principales:**
 
-Prácticas y ejemplos orientados a programación reactiva y aplicaciones de alta concurrencia.
+* Generación segura de OTP.
+* Almacenamiento protegido mediante HMAC-SHA256.
+* Expiración automática utilizando Redis TTL.
+* Validación segura sin almacenar códigos en texto plano.
+* Arquitectura desacoplada preparada para alta concurrencia.
+* Despliegue mediante Docker y Docker Compose.
 
-### 🧪 JUnit Testing
+**Tecnologías:** Java 25, Spring Boot 4, Redis, Docker, OpenAPI.
 
-Colección de pruebas unitarias y ejemplos enfocados en calidad de software y automatización de validaciones.
+**Objetivo:** Proporcionar una solución robusta y segura para autenticación basada en OTP en entornos empresariales.
 
-### 🐳 Docker & Kubernetes
+---
 
-Laboratorios y prácticas relacionadas con despliegue, contenerización y orquestación de aplicaciones empresariales.
+### 🐇 RabbitMQ Messaging Lab
 
-### 🏥 REST APIs
+Repositorio orientado a la implementación de patrones de mensajería y comunicación asíncrona entre servicios.
 
-Implementaciones backend utilizando Spring Boot, validaciones, documentación y buenas prácticas de diseño.
+**Características principales:**
+
+* Productores y consumidores.
+* Comunicación basada en eventos.
+* Procesamiento desacoplado.
+* Manejo de colas y patrones de integración.
+* Buenas prácticas para arquitecturas distribuidas.
+
+**Tecnologías:** Java, Spring Boot, RabbitMQ.
+
+**Objetivo:** Demostrar mecanismos de integración y procesamiento asíncrono utilizados en sistemas empresariales.
+
+---
+
+### ⚡ Spring WebFlux Reactive Programming
+
+Laboratorio enfocado en programación reactiva y aplicaciones de alta concurrencia utilizando Spring WebFlux.
+
+**Características principales:**
+
+* Programación no bloqueante.
+* APIs reactivas.
+* Manejo eficiente de recursos.
+* Procesamiento concurrente.
+
+**Tecnologías:** Java, Spring WebFlux, Reactor.
+
+**Objetivo:** Explorar arquitecturas reactivas para aplicaciones modernas de alto rendimiento.
+
+---
+
+### 🐳 Docker & Kubernetes Platform
+
+Repositorio enfocado en contenerización y despliegue de aplicaciones empresariales.
+
+**Características principales:**
+
+* Construcción de imágenes Docker.
+* Orquestación con Kubernetes.
+* Configuración de entornos.
+* Buenas prácticas de despliegue.
+
+**Tecnologías:** Docker, Kubernetes, Spring Boot.
+
+**Objetivo:** Facilitar la automatización y administración de aplicaciones en entornos cloud-native.
+
+---
+
+### 🧪 Testing & Quality Engineering
+
+Colección de ejemplos prácticos orientados a la calidad de software y automatización de pruebas.
+
+**Características principales:**
+
+* Pruebas unitarias.
+* Mocking y aislamiento de dependencias.
+* Validación de lógica de negocio.
+* Buenas prácticas de testing.
+
+**Tecnologías:** JUnit 5, Mockito, Java.
+
+**Objetivo:** Garantizar la calidad y mantenibilidad del software mediante pruebas automatizadas.
+
+---
+
+### 🏥 REST APIs & Enterprise Solutions
+
+Implementaciones backend utilizando Spring Boot para la construcción de APIs empresariales.
+
+**Características principales:**
+
+* APIs REST.
+* Validaciones.
+* Manejo de excepciones.
+* Persistencia de datos.
+* Documentación OpenAPI.
+
+**Tecnologías:** Java, Spring Boot, JPA, Hibernate.
+
+**Objetivo:** Aplicar buenas prácticas para el desarrollo de servicios empresariales escalables y mantenibles.
+
+---
+
+## 🏗️ Arquitecturas y Tecnologías con las que Trabajo
+
+* Microservices Architecture
+* Event-Driven Architecture
+* RESTful APIs
+* Distributed Systems
+* Batch Processing
+* Enterprise Integration
+* Cloud Native Applications
+* Containerized Deployments
+* Asynchronous Messaging
+* Observability & Monitoring
+* Secure Authentication Services
+* CI/CD Practices
 
 ---
 
