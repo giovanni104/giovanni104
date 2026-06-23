@@ -93,7 +93,25 @@ Microservicio empresarial para generación y validación segura de códigos OTP 
 **Objetivo:** Proporcionar una solución robusta y segura para autenticación basada en OTP en entornos empresariales.
 
 ---
+### 🛒 Mito Sales API
 
+API REST empresarial orientada a la gestión de ventas, clientes, productos e inventario, desarrollada aplicando buenas prácticas de arquitectura backend y diseño de servicios.
+
+**Características principales:**
+
+* Gestión de productos e inventario.
+* Administración de clientes.
+* Registro y procesamiento de ventas.
+* Validaciones de negocio.
+* Arquitectura basada en capas.
+* Documentación de APIs.
+* Preparada para entornos empresariales.
+
+**Tecnologías:** Java, Spring Boot, JPA, Hibernate, Base de Datos Relacional, OpenAPI.
+
+**Objetivo:** Implementar una solución backend orientada a procesos comerciales reales, aplicando principios de mantenibilidad, escalabilidad y buenas prácticas de desarrollo.
+
+---
 ### 🐇 RabbitMQ Messaging Lab
 
 Repositorio orientado a la implementación de patrones de mensajería y comunicación asíncrona entre servicios.
